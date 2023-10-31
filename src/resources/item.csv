@@ -1,0 +1,23 @@
+ItemID,Name,Description,Price,Value,Quantity,Type,Brand,WarrantyYears,ExpirationDate,Weight
+1,Laptop,High-performance laptop,1000.00,2060.00,2,Electronic,Dell,3,,
+2,Smartphone,Latest model smartphone,800.00,4040.00,5,Electronic,Samsung,2,,
+3,Milk,Fresh whole milk,2.00,80.00,10,Grocery,,,2024-02-28
+4,Bread,Whole wheat bread,3.00,104.50,20,Grocery,,,2024-01-28
+5,Glass Vase,Decorative glass vase,50.00,75.00,1,Fragile,,,,50.00
+6,Ceramic Plates,Set of 6 ceramic plates,40.00,130.00,3,Fragile,,,,20.00
+7,Television,4K Smart TV,600.00,680.00,1,Electronic,Sony,4,,
+8,Coffee,Premium ground coffee,10.00,105.50,3,Grocery,,,2024-03-30
+9,Blender,High-speed blender,80.00,200.00,2,Electronic,KitchenAid,2,,
+10,Apples,Fresh red apples,5.00,130.00,14,Grocery,,,2024-02-28
+11,Wine Glasses,Set of 4 wine glasses,30.00,100.00,2,Fragile,,,,80.00
+12,Desk Lamp,LED desk lamp,25.00,65.00,1,Electronic,Philips,2,,
+13,Cereal,Breakfast cereal,4.00,57.00,5,Grocery,,,2024-01-13
+14,Digital Camera,DSLR camera,900.00,1000.00,1,Electronic,Canon,5,,
+15,Eggs,Farm-fresh eggs,3.00,102.00,19,Grocery,,,2024-01-29
+16,Porcelain Figurine,Collectible figurine,60.00,80.00,1,Fragile,,,,40.00
+17,Headphones,Noise-canceling headphones,150.00,490.00,3,Electronic,Bose,2,,
+18,Rice,Premium Basmati rice,8.00,92.50,5,Grocery,,,2024-02-13
+19,Digital Watch,Smartwatch,120.00,260.00,2,Electronic,Apple,1,,
+20,Oranges,Fresh oranges,6.00,132.00,12,Grocery,,,2024-02-28
+21,my item,alabala,3.50,68.50,6,Grocery,,,2024-02-03
+22,IPhone,imam pari ugajdam si,2500.00,5040.00,2,Electronic,Apple,2,,
